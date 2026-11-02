@@ -1,0 +1,8 @@
+{
+  "name": "deen-truthverse-community",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small hosted community chat for the Deen Truthverse YouTube channel",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
